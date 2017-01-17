@@ -6,7 +6,7 @@ import static java.lang.Thread.currentThread;
 
 public class Barrier  {
 
-   volatile private int count;
+   private int count;
 
 
 
